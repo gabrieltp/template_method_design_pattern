@@ -3,8 +3,8 @@
 var feijoada = new FeijoadaRecipe();
 feijoada.CreateRecipe();
 
-var cheeseBread = new PaoDeQueijo();
+var cheeseBread = new PaoDeQueijoRecipe();
 cheeseBread.CreateRecipe();
 
-var vinagerete = new Vinagrete();
+var vinagerete = new VinagreteRecipe();
 vinagerete.CreateRecipe();

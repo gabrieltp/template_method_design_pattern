@@ -2,7 +2,7 @@
 
 namespace TemplateMethod.SubClasses
 {
-    public class PaoDeQueijo : RecipeStructure
+    public class PaoDeQueijoRecipe : RecipeStructure
     {
         protected override void Preparation()
         {

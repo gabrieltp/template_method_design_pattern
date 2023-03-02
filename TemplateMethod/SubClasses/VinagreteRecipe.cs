@@ -2,7 +2,7 @@
 
 namespace TemplateMethod.SubClasses
 {
-    internal class Vinagrete : RecipeStructure
+    internal class VinagreteRecipe : RecipeStructure
     {
         protected override void Preparation()
         {
